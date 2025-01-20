@@ -83,7 +83,9 @@ https://github.com/user-attachments/assets/bf41954b-0794-49dc-a8c0-cf4de64ad952
 	- 스프링 시큐리티 라이브러리 활용
 		- 목적: 회원 인증 및 권한 부여, 유연성을 통한 커스터마이즈 
 		- [사용한 코드 링크](https://inblog.ai/devleekangho/%EC%9D%B4%EC%83%81%ED%98%95-%EC%9B%94%EB%93%9C%EC%BB%B5-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%82%AC%EC%9A%A9-%EA%B8%B0%EC%88%A0-%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83-%EC%84%A4%EC%A0%95-39379)
+	
 	![화원 정보 수정2](https://github.com/user-attachments/assets/7db83503-5c10-460e-bc28-12dae1cfff96)
+	
 	- 비밀번호 변경을 체크하면 변경할 비밀번호 입력 가능
 	- 탈퇴하기 버튼 클릭시 다이얼로그로 경고창 활성화
 
